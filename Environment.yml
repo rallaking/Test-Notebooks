@@ -2,7 +2,8 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
   - pandas
-  - matplotlib
-  - pandas-profiling
+  - pulp
+  - numpy
+  - json
+  - math
